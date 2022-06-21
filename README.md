@@ -1,6 +1,5 @@
 # Bootstrap-Project
-Portfolio
-Setup and mobile version skeleton. This project contains the toolbar (or header) and the headline section (right after the header) for template two from figma.
+ This is a project that is a simple school registration website
 
 # Built With
 html and Bootstrap
@@ -11,10 +10,10 @@ To get a local copy up and running follow these simple example steps.
 Prerequisites: Any kind of browser Setup: 1. Clone the repository 2. Open the folder 3. Run index.html file
 
 # Authors
-   # Nati
-   # Hareg
-   # Biniyam
-   # Kidist
+   Nati
+   Hareg
+   Biniyam
+   Kidist
 
 
 # 🤝 Contributing
