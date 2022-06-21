@@ -2,7 +2,8 @@
  This is a project that is a simple school registration website
 
 # Built With
-html and Bootstrap
+ - Html 
+ - Bootstrap
 
 # Getting Started
 To get a local copy up and running follow these simple example steps.
