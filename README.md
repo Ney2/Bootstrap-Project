@@ -10,10 +10,10 @@ To get a local copy up and running follow these simple example steps.
 Prerequisites: Any kind of browser Setup: 1. Clone the repository 2. Open the folder 3. Run index.html file
 
 # Authors
-   Nati
-   Hareg
-   Biniyam
-   Kidist
+   - Nati
+   - Hareg
+   - Biniyam
+   - Kidist
 
 
 # 🤝 Contributing
